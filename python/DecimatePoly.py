@@ -4,7 +4,7 @@
 # Source date: Jan. 2011
 # Source URL: https://www.mathworks.com/matlabcentral/fileexchange/34639-decimate-polygon
 
-# Translator: Erik husby (husby036@umn.edu)
+# Translator: Erik Husby (husby036@umn.edu)
 # Translation date: Feb. 2018
 
 # Source file header:
